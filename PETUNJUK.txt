@@ -1,0 +1,11 @@
+TOKO RANI.COM - DEMO WEBSITE
+
+CARA MEMBUKA:
+1. Ekstrak ZIP ini ke folder di laptop.
+2. Buka folder Toko_Rani_Com.
+3. Klik dua kali index.html.
+4. Login: admin | Password: admin123
+
+FITUR: dashboard, CRUD barang, barang masuk, penjualan dengan pengurangan stok otomatis, peringatan stok minimum, laporan modal dan keuntungan, ekspor CSV, cetak laporan.
+
+CATATAN: versi ini berjalan di browser dan menyimpan data pada browser/perangkat yang digunakan (localStorage). Data belum tersinkron online ke perangkat lain. Agar dosen bisa membuka melalui link internet dan melihat data yang sama, tahap berikutnya adalah memasang hosting dan database online. Login demo bukan sistem keamanan produksi. Ganti data contoh sebelum presentasi.
